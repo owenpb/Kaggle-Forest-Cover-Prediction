@@ -19,9 +19,9 @@ We use a variety of classification techniques, including:
 **3. K-Nearest Neighbors** <br>
 **4. Decision Tree** <br>
 **5. Random Forest** <br>
-**6. XGBoost **<br>
+**6. XGBoost**<br>
 **7. AdaBoost**<br>
 **8. LightGBM**<br>
 **9. Extra Trees Classifier**<br>
 
-After tuning hyperparameters with GridsearchCV, our best model achieves a test score within the top $6.1\%% of the Kaggle leaderboard. 
+After tuning hyperparameters with GridsearchCV, our best model achieves a test score within the top 6.1% of the Kaggle leaderboard. For additional details of the dataset, see the Kaggle competition page at [kaggle.com/c/forest-cover-type-prediction](kaggle.com/c/forest-cover-type-prediction). 
