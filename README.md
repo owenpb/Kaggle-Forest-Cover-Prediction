@@ -24,4 +24,4 @@ We use a variety of classification techniques, including:
 **8. LightGBM**<br>
 **9. Extra Trees Classifier**<br>
 
-After tuning hyperparameters with GridsearchCV, our best model achieves a test score within the top 6.1% of the Kaggle leaderboard. For additional details of the dataset, see the Kaggle competition page at [kaggle.com/c/forest-cover-type-prediction](kaggle.com/c/forest-cover-type-prediction). 
+After tuning hyperparameters with GridsearchCV, our best model achieves a test score within the top 6.1% of the Kaggle leaderboard. For additional details and background information related to this dataset, see the Kaggle competition page at [kaggle.com/c/forest-cover-type-prediction](kaggle.com/c/forest-cover-type-prediction). 
