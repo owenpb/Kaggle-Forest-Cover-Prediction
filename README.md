@@ -2,6 +2,8 @@
 
 ## Notebook: [kaggle-forest-cover.ipynb](https://github.com/owenpb/Kaggle-Forest-Cover-Prediction/blob/main/kaggle-forest-cover.ipynb)
 
+### Multiclass classification of forest cover type
+
 In this competition, the task is to predict the forest cover type (the predominant kind of tree cover) from cartographic variables. Each observation in our dataset corresponds to a $30\textrm{m} \times 30\textrm{m}$ patch of land located in the Roosevelt National Forest of northern Colorado. There are seven possible forest cover types:
 
 **1. Spruce/Fir** <br>
